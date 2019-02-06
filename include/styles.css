@@ -1,0 +1,51 @@
+table.meniu {
+    text-align: left;
+    background-color: #fcfa1a;
+    border:3px dashed black ;
+    border-radius: 6px;
+    border-style: double;
+
+}
+
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: grey;
+    padding: 1px;
+    background-color: white;                
+}
+table.backlink {  
+    margin-left:auto; 
+    margin-right:auto;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    border-width: 13px;
+    border-style: solid;
+    border-color: red;    
+    background-color: cyan;   
+}
+form.houses{
+    border-width: 2px;
+    border-style: solid;
+    background-color: #c6f7ff;
+}
+body {
+    text-align:center;
+}   
+form.login {
+    margin-bottom:0px;
+    margin-top: 0px;
+    padding:6px;
+    background-color: rgba(178, 255, 17, 0.78);
+    border:3px dashed grey;
+
+}
+input.s1 {   
+    width:100%;
+    font-size:13pt;
+    text-align:left;
+}
